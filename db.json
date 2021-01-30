@@ -4,9 +4,9 @@
     "description": "Teste os seus conhecimentos sobre nosso universo e vamos ver se você chega na reposta 42",
     "questions": [
         {
-            "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
+            "image": "https://media.giphy.com/media/h8sRbOtj55JACfGn8R/giphy.gif",
             "title": "Júpiter, Saturno, Urano e Netuno são planetas?",
-            "description": "Essa é pra aquecer",
+            "description": "Vamos começar com uma fácil",
             "answer": 2,
             "alternatives": [
                 "Rochosos",
@@ -17,9 +17,9 @@
             ]
         },
         {
-            "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
+            "image": "https://media.giphy.com/media/m6xHedeVlSDIY/giphy.gif",
             "title": "O cometa Halley é visto da Terra de quando em quanto tempo?",
-            "description": "Faz tempo em haha",
+            "description": "Não poderia faltar o cometa mais famoso",
             "answer": 4,
             "alternatives": [
                 "105 anos",
@@ -30,9 +30,9 @@
             ]
         },
         {
-            "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
+            "image": "https://media.giphy.com/media/Jo1YxKmJWzYng6ZCDG/giphy.gif",
             "title": "Qual é o maior planeta do Sistema-Solar?",
-            "description": "Faz tempo em haha",
+            "description": "Tem uma dica nesta página",
             "answer": 1,
             "alternatives": [
                 "Urano",
@@ -43,9 +43,9 @@
             ]
         },
         {
-            "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
+            "image": "https://media.giphy.com/media/rXHKRU96pSJNe/giphy.gif",
             "title": "Qual é a estrela mais brilhante do céu?",
-            "description": "Faz tempo em haha",
+            "description": "Aposto que você já olhou para ela",
             "answer": 3,
             "alternatives": [
                 "Sol",
@@ -56,9 +56,9 @@
             ]
         },
         {
-            "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
+            "image": "https://media.giphy.com/media/h8sRbOtj55JACfGn8R/giphy.gif",
             "title": "Como são classificados os planetas que não orbitam o Sol?",
-            "description": "Faz tempo em haha",
+            "description": "Se você pensar bem é fácil",
             "answer": 1,
             "alternatives": [
                 "Astros que orbitam outras estrela não são considerados planetas",
@@ -69,9 +69,9 @@
             ]
         },
         {
-            "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
+            "image": "https://media.giphy.com/media/FUc4mw5kM1hVS/giphy.gif",
             "title": "Qual é o nome do astrônomo, matemático, físco, entre outros, que defendeu a ideia de que a Terra era redonda e que girava em torno do Sol?",
-            "description": "Faz tempo em haha",
+            "description": "Não se engane pelas imagens",
             "answer": 1,
             "alternatives": [
                 "Aristóteles",
@@ -82,9 +82,9 @@
             ]
         },
         {
-            "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
+            "image": "https://media.giphy.com/media/dNEozThYwtPbrt4m06/giphy.gif",
             "title": "Qual é a estrela mais próxima do Sol?",
-            "description": "Faz tempo em haha",
+            "description": "Dica: é a mais próxima haha",
             "answer": 2,
             "alternatives": [
                 "Alpha Centauri",
