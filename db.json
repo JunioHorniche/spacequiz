@@ -1,38 +1,108 @@
 {
-    "bg": "https://cutewallpaper.org/21/space-wallpaper-1366x768-hd/1366x768-Space-Wallpaper-79+-images-.jpg",
+    "bg": "https://cdn.wallpapersafari.com/85/17/5Evnut.jpg",
     "title": "Quiz sobre nosso universo",
     "description": "Teste os seus conhecimentos sobre nosso universo e vamos ver se você chega na reposta 42",
     "questions": [
         {
             "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-            "title": "Como fazer um seletor por id via CSS?",
+            "title": "Júpiter, Saturno, Urano e Netuno são planetas?",
             "description": "Essa é pra aquecer",
             "answer": 2,
             "alternatives": [
-                ".elemento",
-                "*elemento",
-                "#elemento",
-                "%elemento"
+                "Rochosos",
+                "Anões",
+                "Gasosos",
+                "Menores do que a Terra",
+                "Sem satélites naturais"
             ]
         },
         {
             "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-            "title": "Como fazer um background gradiente com css?",
+            "title": "O cometa Halley é visto da Terra de quando em quanto tempo?",
             "description": "Faz tempo em haha",
-            "answer": 0,
+            "answer": 4,
             "alternatives": [
-                "background: linear-gradient(#e66465, #9198e5);",
-                "background: gradient(#e66465, #9198e5);"
+                "105 anos",
+                "22 anos",
+                "87 anos",
+                "15 anos",
+                "76 anos"
+            ]
+        },
+        {
+            "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
+            "title": "Qual é o maior planeta do Sistema-Solar?",
+            "description": "Faz tempo em haha",
+            "answer": 1,
+            "alternatives": [
+                "Urano",
+                "Júpiter",
+                "Terra",
+                "Saturno",
+                "Marte"
+            ]
+        },
+        {
+            "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
+            "title": "Qual é a estrela mais brilhante do céu?",
+            "description": "Faz tempo em haha",
+            "answer": 3,
+            "alternatives": [
+                "Sol",
+                "Alpha Centauri",
+                "Arcturus",
+                "Sirus",
+                "Canopus"
+            ]
+        },
+        {
+            "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
+            "title": "Como são classificados os planetas que não orbitam o Sol?",
+            "description": "Faz tempo em haha",
+            "answer": 1,
+            "alternatives": [
+                "Astros que orbitam outras estrela não são considerados planetas",
+                "Exoplanetas",
+                "Extraplanetas",
+                "Planetas externos",
+                "Planetas"
+            ]
+        },
+        {
+            "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
+            "title": "Qual é o nome do astrônomo, matemático, físco, entre outros, que defendeu a ideia de que a Terra era redonda e que girava em torno do Sol?",
+            "description": "Faz tempo em haha",
+            "answer": 1,
+            "alternatives": [
+                "Aristóteles",
+                "Galileu Galilei",
+                "Isaac Newton",
+                "Albert Einstein",
+                "Edwin Powell Hubble"
+            ]
+        },
+        {
+            "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
+            "title": "Qual é a estrela mais próxima do Sol?",
+            "description": "Faz tempo em haha",
+            "answer": 2,
+            "alternatives": [
+                "Alpha Centauri",
+                "Vega",
+                "Proxima Centauri",
+                "Procyon",
+                "Rigel"
             ]
         }
     ],
     "external": [
-        ""
+        "https://aluraquiz-css.omariosouto.vercel.app/",
+        "https://aluraquiz-marvel.omariosouto.vercel.app/"
     ],
     "theme": {
         "colors": {
-            "primary": "#0d47a1",
-            "secondary": "#29b6f6",
+            "primary": "#9c27b0",
+            "secondary": "#d500f9",
             "mainBg": "#171B35",
             "contrastText": "#FFFFFF",
             "wrong": "#FF5722",
